@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @stella1231000
-- 👀 I’m interested in music, writing, and computer software.
-- 🌱 I’m currently learning coding
-- 📫 How to reach me ... I'm good, no need to ever reach me
+# Website for GitHub profile
 
-<!---
-stella1231000/stella1231000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This site was generated and added to the repository by the GitHub Copilot assistant.
+
+To publish with GitHub Pages: go to the repository Settings → Pages, set the source to the main branch and the root folder, then save. The site will be available at https://stella1231000.github.io/stella1231000/ (may take a minute).
+
+Customize index.html and styles.css to personalize content, add images in an assets/ folder, or add a CNAME if you want a custom domain.
